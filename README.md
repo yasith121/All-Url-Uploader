@@ -44,7 +44,7 @@ python3 main.py
    **[YouTube-dl Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html)**
 
 ## TG Bots Updates 🦄
-   **[Bot Universe](https://t.me/TMWAD)**
+   
 
 ## Credits, and Thanks to 👀
 
